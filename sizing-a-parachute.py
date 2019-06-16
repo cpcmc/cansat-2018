@@ -1,5 +1,5 @@
 """
-CPCMC
+cpcmc
 3/11/2017
 based on J.R. Brohm's "The Mathematics of Flat Parachutes"
 http://www.psc473.org/howto/MathofParachutes.pdf
